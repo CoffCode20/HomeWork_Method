@@ -65,7 +65,7 @@ public class HomeWork {
 
     public static void main(String[] args) {
         System.out.println(">>>>>>> Word Count <<<<<<<");
-        System.out.print("Enter a word: ");
+        System.out.print("Enter any word: ");
         String word = sc.nextLine();
         System.out.println("Number of Word (is/are): " + wordCount(word));
         System.out.println(">>>>>>> Sort Array <<<<<<<");
